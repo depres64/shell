@@ -1,0 +1,2 @@
+D:\Documents\Desktop\Lab.shell\shell\Debug\shell.exe
+D:\Documents\Desktop\Lab.shell\shell\Debug\shell.pdb
